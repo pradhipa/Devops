@@ -1,0 +1,39 @@
+#!/bin/bash -e
+
+: ' File creation/modification in Terminal Repository & Sync Online repository
+11th Oct 2018
+By Pradhipa'
+
+
+pwd
+git status
+git add .
+git add filerepo
+git commit -m "File created and txt added" filerepo
+
+echo "File txt add"
+echo "Hi a new text is added to the file "
+
+git remote -v
+git status
+
+git push origin master
+
+
+
+
+~                                                                                                                                             
+~                                                                                                                                             
+~                                                                                                                                             
+~                                                                                                                                             
+~                                                                                                                                             
+~                                                                                                                                             
+~                                                                                                                                             
+~                                                                                                                                             
+~                                                                                                                                             
+~                                                                                                                                             
+~                                                                                                                                             
+~                                                                                                                                             
+~                                                                                                                                             
+-- INSERT --                                                                                                                1,1           All
+
