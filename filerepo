@@ -8,7 +8,7 @@ By Pradhipa'
 pwd
 git status
 
-git add filerepo
+touch filerepo
 git commit -m "File created and txt added" filerepo
 
 echo "File txt add"
